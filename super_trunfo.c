@@ -30,7 +30,7 @@ int main () {
     printf ("Nome da Cidade:  ");
     scanf ("%s", nomeCidade1); // Atenção: scanf com %s lê apenas até o primeiro espaço em branco
 
-    printf ("População:  ");
+    printf ("Populacao:  ");
     scanf ("%d", &populacao1);
 
     printf ("Area (em km²) :  ");
@@ -51,7 +51,7 @@ int main () {
     printf ("Nome da Cidade:  ");
     scanf ("%s", nomeCidade2); // Atenção: scanf com %s lê apenas até o primeiro espaço em branco
 
-    printf ("População:  ");
+    printf ("Populacao:  ");
     scanf ("%d", &populacao2);
 
     printf ("Area (em km²):   ");
